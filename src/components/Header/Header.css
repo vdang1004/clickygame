@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.title {
+  float: left;
+}
+
+.caption {
+  float: left;
+  text-align: center;
+  padding-left: 20%;
+  
+  
+}
+
+.scores {
+  float: right;
+  color: red;
+}
